@@ -1,7 +1,5 @@
 
 # CaFo
-=======
-
 
 A pytorch implementation of the Cascaded Forward (CaFo) Algorithm 
 
