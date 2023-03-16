@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # CaFo
 A pytorch implementation of Cascaded Forward (CaFo) Algorithm
 =======
-# Cascaded Forward Algorithm
+
 
 A pytorch implementation of the Cascaded Forward (CaFo) Algorithm 
 
