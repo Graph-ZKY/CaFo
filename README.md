@@ -1,7 +1,7 @@
 
 # CaFo
 
-A pytorch implementation of the Cascaded Forward (CaFo) Algorithm 
+A pytorch implementation of the Cascaded Forward (CaFo) Algorithm （https://arxiv.org/abs/2303.09728）
 
 
 ### Dependencies
