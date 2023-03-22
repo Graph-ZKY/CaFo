@@ -6,7 +6,6 @@ import torch
 import os
 import torch.nn.functional as F
 from block import Block
-from ff_layer import Layer
 from utils import overlay_y_on_x
 
 
